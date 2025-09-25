@@ -1,3 +1,7 @@
+[🇷🇺 Русский](README.md) | [🇬🇧 English](lang/README.en.md)
+----------------
+<p>
+
 ### Hi, I'm Max!
    Full-stack Analyst (Business & Systems) with 8+ years of IT experience, including
    <br/>2 years in manufacturing,
